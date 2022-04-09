@@ -1,0 +1,50 @@
+body{
+    background-image: url(/Users/pablotorres/Desktop/Profile/FSI-Build-a-Portfolio/images/image1.jpeg);
+}
+h1{
+font-style: oblique;
+    text-decoration: underline;
+    margin: .1in;
+    color: whitesmoke;
+    text-align: center;
+}
+p{
+   font-size: large;
+   font-synthesis: style; 
+    color: orange
+}
+li{
+    color: orange;
+}
+h2{
+text-align: center;
+    color: beige;
+text-decoration: solid;
+text-overflow: ellipsis;
+}
+h3{
+    text-align: start;
+    color: beige;
+    border: 3pc;
+    height: 0cm;
+}
+h4{
+    color: whitesmoke;
+    text-decoration-style: double;
+}
+h5{
+color: beige;
+
+}
+a{
+    color: orange
+
+}
+img{
+    border-radius: 33%;
+    border-style: groove;
+    color: burlywood;
+}
+cursor{
+    cursor: pointer;
+}
